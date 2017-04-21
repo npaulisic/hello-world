@@ -1,3 +1,3 @@
 # hello-world
 Istra + 1
-Ja volim kada mi nije dosadno
+Ja volim kada mi nije dosadno //dodan tekst
